@@ -1,0 +1,6 @@
+name=input("enter ur name:")
+print("ur name is:",name.upper())
+print("ur name is:",name.lower())
+print("total letters is:",len(name))
+print("first letter is:",name[0])
+print("last letter is:",name[-1])
